@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}    
+.container{
+    border:2px solid gray;
+    width:98%;
+    margin:auto;
+    height:10vh;
+    transform:translate(-50%, -50%,50%);
+    box-shadow: 10px 4px 8px rgba(2, 1, 0, 0.2);
+}
+.circle{
+    width:20px;
+    position:absolute;
+    height:20px;
+    border:1px solid red;
+    border-radius:100%;
+}
+#title{
+    text-align:center;
+
+}
